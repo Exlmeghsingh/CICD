@@ -2,7 +2,7 @@
 <applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
             
     
-    <versionUuid>37026449-12a5-4105-81ed-1dfe910c16aa</versionUuid>
+    <versionUuid>_a-0000eb22-3451-8000-9bf4-011c48011c48_1350931</versionUuid>
             
     
     <application>
@@ -162,8 +162,8 @@
                                                                         
                         
                         <uuid>_a-0000eb22-3451-8000-9bf4-011c48011c48_1342263</uuid>
-                        <uuid>SYSTEM_CUSTOM_BRANDING_LOGO_IMAGE</uuid>
-                        <uuid>SYSTEM_CUSTOM_BRANDING_FAVICON_IMAGE</uuid>
+                                                                    
+                    
                     </uuids>
                                                         
                 
@@ -350,9 +350,7 @@
                     <type>adminSetting</type>
                                                             
                     
-                    <uuids>
-                        <uuid>conf</uuid>
-                    </uuids>
+                    <uuids/>
                                                         
                 
                 </item>
@@ -364,11 +362,7 @@
                     <type>thirdPartyCredentials</type>
                                                             
                     
-                    <uuids>
-                        <uuid>5463a1d5-4309-43f2-9227-915d8c59224e</uuid>
-                        <uuid>11337712-8c22-41a1-8b1e-f27913e75afd</uuid>
-                        <uuid>fcd32f86-bc42-46f1-8770-098a5ad7464e</uuid>
-                    </uuids>
+                    <uuids/>
                                                         
                 
                 </item>
@@ -380,13 +374,7 @@
                     <type>dataSource</type>
                                                             
                     
-                    <uuids>
-                        <uuid>5beea13a-3fff-4ff4-a8a6-636bfabe24cc</uuid>
-                        <uuid>3ced6257-35b6-4e29-b608-a95dcc6598ea</uuid>
-                        <uuid>c3b704c6-e5af-409c-8e97-647817c8cd44</uuid>
-                        <uuid>ba0e2ab2-259a-4a09-9432-1710b2bd87a4</uuid>
-                        <uuid>20f45717-ed1d-45fb-b514-3dbfd08637c8</uuid>
-                    </uuids>
+                    <uuids/>
                                                         
                 
                 </item>
@@ -398,9 +386,7 @@
                     <type>embeddedSailTheme</type>
                                                             
                     
-                    <uuids>
-                        <uuid>SYSTEM_EMBEDDED_defaultDesignerTheme</uuid>
-                    </uuids>
+                    <uuids/>
                                                         
                 
                 </item>
@@ -1106,11 +1092,12 @@
                         
         
         <historyInfo versionUuid="_a-0000eb22-3451-8000-9bf4-011c48011c48_1350931"/>
-        <historyInfo versionUuid="37026449-12a5-4105-81ed-1dfe910c16aa"/>
+                    
+    
     </history>
             
     
     <postDeploymentProcessData/>
         
 
-</applicationHaul><!--updated on 2024-02-13T13:42:41.608-->
+</applicationHaul><!--updated on 2024-02-13T13:42:55.663-->
