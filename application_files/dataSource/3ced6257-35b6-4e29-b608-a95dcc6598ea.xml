@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataSourceHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <dataSourceInfo>
+        <uuid>3ced6257-35b6-4e29-b608-a95dcc6598ea</uuid>
+        <name>ds_exl_rate_calculator</name>
+        <type>SQL Server</type>
+        <connectionString>jdbc:sqlserver://65.122.132.91:1433;databaseName=EXL_RateCalculator</connectionString>
+    </dataSourceInfo>
+</dataSourceHaul>

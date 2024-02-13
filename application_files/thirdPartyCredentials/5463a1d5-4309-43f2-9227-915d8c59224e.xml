@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<thirdPartyCredentialsHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <externalSystem>
+        <a:uuid>5463a1d5-4309-43f2-9227-915d8c59224e</a:uuid>
+        <a:name>RtivDevMailBox</a:name>
+        <a:description>IMAP mail configuration for RTIV Dev Outlook</a:description>
+        <a:key>rtivdevmailbox</a:key>
+        <a:attribute>
+            <a:key>username</a:key>
+            <a:name>username</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:attribute>
+            <a:key>password</a:key>
+            <a:name>password</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:showPerUser>false</a:showPerUser>
+        <a:allowedPlugin>mail</a:allowedPlugin>
+    </externalSystem>
+</thirdPartyCredentialsHaul>

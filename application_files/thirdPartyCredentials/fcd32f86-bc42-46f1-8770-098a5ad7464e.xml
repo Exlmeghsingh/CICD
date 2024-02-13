@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<thirdPartyCredentialsHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <externalSystem>
+        <a:uuid>fcd32f86-bc42-46f1-8770-098a5ad7464e</a:uuid>
+        <a:name>MAIL Poller - Deprecated - Underwriting Mailbox Credentials</a:name>
+        <a:description>Mailbox for Connected underwriting</a:description>
+        <a:key>connectedunderwritingmailbox</a:key>
+        <a:attribute>
+            <a:key>username</a:key>
+            <a:name>username</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:attribute>
+            <a:key>password</a:key>
+            <a:name>password</a:name>
+            <a:showValueOnUi>false</a:showValueOnUi>
+        </a:attribute>
+        <a:showPerUser>false</a:showPerUser>
+        <a:allowedPlugin>mail</a:allowedPlugin>
+    </externalSystem>
+</thirdPartyCredentialsHaul>

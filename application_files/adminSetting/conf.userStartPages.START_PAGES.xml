@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<administeredSettingHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <uuid>conf.userStartPages.START_PAGES</uuid>
+    <isDefault>false</isDefault>
+    <urlConfigs>
+        <urlConfig>
+            <url>/sites/connected-underwriting/page/kdashboard</url>
+            <groups>
+                <group a:uuid="_e-0000e877-1566-8000-9afa-01075c01075c_145"/>
+            </groups>
+        </urlConfig>
+        <urlConfig>
+            <url>/sites/connected-underwriting/page/home</url>
+            <groups>
+                <group a:uuid="1b8d0ecc-7377-473c-a360-2f39a60cf0f0"/>
+            </groups>
+        </urlConfig>
+        <urlConfig>
+            <url>/sites/data-loops</url>
+            <groups>
+                <group a:uuid="_e-0000e788-8dab-8000-9b05-01075c01075c_653"/>
+                <group a:uuid="_e-0000e5ea-6ca9-8000-9b0e-01075c01075c_222"/>
+            </groups>
+        </urlConfig>
+    </urlConfigs>
+</administeredSettingHaul>

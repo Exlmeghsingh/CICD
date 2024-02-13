@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataSourceHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <dataSourceInfo>
+        <uuid>c3b704c6-e5af-409c-8e97-647817c8cd44</uuid>
+        <name>ds_exl_claims</name>
+        <type>SQL Server</type>
+        <connectionString>jdbc:sqlserver://65.122.132.91:1433;databaseName=EXL_Claims</connectionString>
+    </dataSourceInfo>
+</dataSourceHaul>

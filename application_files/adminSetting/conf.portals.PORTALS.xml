@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<administeredSettingHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <uuid>conf.portals.PORTALS</uuid>
+    <isDefault>false</isDefault>
+    <portals>
+        <isPublishPrivate>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:boolean">false</value>
+        </isPublishPrivate>
+    </portals>
+</administeredSettingHaul>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataSourceHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <dataSourceInfo>
+        <uuid>ba0e2ab2-259a-4a09-9432-1710b2bd87a4</uuid>
+        <name>jdbc/ds_exl_dqa</name>
+        <type>MySQL</type>
+        <connectionString>jdbc:mysql://65.122.132.92:3306/DQA_MVP_DEV?useOldAliasMetadataBehavior=true&amp;disableMariaDbDriver=true</connectionString>
+    </dataSourceInfo>
+</dataSourceHaul>

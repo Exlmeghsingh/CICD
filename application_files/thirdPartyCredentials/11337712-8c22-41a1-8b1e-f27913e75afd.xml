@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<thirdPartyCredentialsHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <externalSystem>
+        <a:uuid>11337712-8c22-41a1-8b1e-f27913e75afd</a:uuid>
+        <a:name>ISU MS Graph Poller Credentials</a:name>
+        <a:description>Container for the secure details to connect to Azure platform for getting OAuth authentication</a:description>
+        <a:key>isu-mail-poller-msgraph</a:key>
+        <a:attribute>
+            <a:key>secret</a:key>
+            <a:name>secret</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:attribute>
+            <a:key>tenant</a:key>
+            <a:name>tenant</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:attribute>
+            <a:key>applicationid</a:key>
+            <a:name>applicationID</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:attribute>
+            <a:key>custommailpollertablename</a:key>
+            <a:name>customMailPollerTableName</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:attribute>
+            <a:key>custommailpollerdoctablename</a:key>
+            <a:name>customMailPollerDocTableName</a:name>
+            <a:showValueOnUi>true</a:showValueOnUi>
+        </a:attribute>
+        <a:showPerUser>false</a:showPerUser>
+        <a:allowedPlugin>msgraphmailpoller</a:allowedPlugin>
+    </externalSystem>
+</thirdPartyCredentialsHaul>

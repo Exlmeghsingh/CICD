@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<administeredSettingHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <uuid>conf.permissions.EDITABLE_USER_PROFILE_FIELDS</uuid>
+    <isDefault>false</isDefault>
+    <editableUserProfileFields>
+        <name>
+            <isDefault>true</isDefault>
+        </name>
+        <email>
+            <isDefault>true</isDefault>
+        </email>
+        <phoneNumbers>
+            <isDefault>true</isDefault>
+        </phoneNumbers>
+        <location>
+            <isDefault>true</isDefault>
+        </location>
+        <title>
+            <isDefault>true</isDefault>
+        </title>
+        <supervisor>
+            <isDefault>true</isDefault>
+        </supervisor>
+        <blurb>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:boolean">false</value>
+        </blurb>
+        <coverPicture>
+            <isDefault>true</isDefault>
+        </coverPicture>
+        <profilePicture>
+            <isDefault>true</isDefault>
+        </profilePicture>
+    </editableUserProfileFields>
+</administeredSettingHaul>

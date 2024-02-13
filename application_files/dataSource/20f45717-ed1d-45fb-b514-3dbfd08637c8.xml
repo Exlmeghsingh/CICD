@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataSourceHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <dataSourceInfo>
+        <uuid>20f45717-ed1d-45fb-b514-3dbfd08637c8</uuid>
+        <name>jdbc/ds_exl_sds</name>
+        <type>MySQL</type>
+        <connectionString>jdbc:mysql://65.122.132.92:3306/EXL_SDS_MVP?useOldAliasMetadataBehavior=true&amp;disableMariaDbDriver=true&amp;useSSL=false</connectionString>
+    </dataSourceInfo>
+</dataSourceHaul>
